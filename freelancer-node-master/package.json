@@ -1,0 +1,20 @@
+{
+  "name": "freelancer-node",
+  "version": "0.0.1",
+  "description": "Wrapper on the Freelancer REST API",
+  "main": "freelancer.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [
+    "freelancer",
+    "rest",
+    "sdk",
+    "api"
+  ],
+  "author": "Albert Kurniawan <kurniawan.albert19@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^5.2.0"
+  }
+}
