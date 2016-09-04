@@ -5,7 +5,7 @@ Freelancer API Dashboard
 
 ## Motivation
 
-A dashboard to secure jobs from freelancer.com on autopilot
+A dashboard to secure jobs from freelancer.com & upwork.com on autopilot
 
 
 ## Contributors
