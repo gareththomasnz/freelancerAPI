@@ -1,0 +1,5 @@
+/sources/*.user
+/bin/debug
+/bin/release
+/sources/Resources/elance-api.ini
+/deploy/Windows/package
